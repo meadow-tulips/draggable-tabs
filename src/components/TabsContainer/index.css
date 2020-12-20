@@ -1,0 +1,13 @@
+
+.tab-container .content {
+    display: block;
+    padding: 1rem 0;
+    line-height: 14px;
+    padding: 20px;
+  }
+  
+  .tab-container .add-button {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    opacity: .4;
+  }

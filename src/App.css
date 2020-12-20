@@ -1,0 +1,11 @@
+.App {
+  width: 600px;
+  margin: 0 auto;
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
+  border: 1px solid gray;
+}
+
+
+.heading {
+  margin: 1rem;
+}

@@ -1,0 +1,13 @@
+.Toast {
+    background-color: midnightblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 12px;
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    transition: transform .6s ease-in-out;
+    animation: toast-in-right .5s;
+    z-index: 1;
+}
